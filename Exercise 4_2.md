@@ -32,7 +32,7 @@ An extremely useful tool for this is called OpenRefine – a free, open source t
 
 15.	Next go back to the main project data table and choose to look at the Text Facet from the column “Label.” Once again, look at the clusters that OpenRefine generates for you. What are some of the issues you see with different recording in these clusters? What are some changes that you made in grouping these data values together and what are clusters that you had to leave how they were? Again, __note__ in your README.md file what you’ve changed. 
 
-16.	When you’ve cleaned these two fields (Context (4) and Label), export the project as Petra Excavation Data_Cleaned. Go to your GitHub page and create a new repo titled “ANTH 641_Week 4.” Upload your cleaned .csv file to your Week 4 GitHub page.
+16.	When you’ve cleaned these two fields (Context (4) and Label), export the project as Petra Excavation Data_Cleaned. Go to your GitHub page and create a new repo titled “ANTH 641_Week 4.” Upload your cleaned .xlsx file to your Week 4 GitHub page.
 
 17.	Next, begin a new project by clicking on the “Open…” button on the top right of the page. Load your Petra Animal Bones csv file. 
 
