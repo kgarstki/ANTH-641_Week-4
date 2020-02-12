@@ -28,7 +28,7 @@ For this exercise we will work from a relational database created for a PhD diss
 
 ![alt text](https://github.com/kgarstki/ANTH-641_Week-4/blob/master/Images/Image10.png)
 
-8.	Then click Run at the top “Design” tab. You will now find a new table that includes data from four different tables. You should have returned 576 records (the total number of artifacts in the study).
+8.	Then click Run at the top “Design” tab. You will now find a new table that includes data from four different tables. You should have returned 620 records (the total number of artifacts in the study).
 
 ![alt text](https://github.com/kgarstki/ANTH-641_Week-4/blob/master/Images/Image11.png)
 
@@ -36,7 +36,7 @@ For this exercise we will work from a relational database created for a PhD diss
 
 ![alt text](https://github.com/kgarstki/ANTH-641_Week-4/blob/master/Images/Image12.png)
 
-10.	We want to see all of the fibulae found in graves associated with female burials. First, in the ArtifactDesc column, type in “Fibula” in the row titled Criteria: Then, in the Published Gender column, type in Like “*Female” in the Criteria: row (note the * next to Female). This limits our query to include only records where the artifact was a fibula and if the grave was designated as a Female, Probable Female, of Male and Female burial. You should come up with 19 records. Make sure to save your query. 
+10.	We want to see all of the fibulae found in graves associated with female burials. First, in the ArtifactDesc column, type in “Fibula” in the row titled Criteria: Then, in the Published Gender column, type in Like “*Female” in the Criteria: row (note the * next to Female). This limits our query to include only records where the artifact was a fibula and if the grave was designated as a Female, Probable Female, of Male and Female burial. You should come up with 17 records. Make sure to save your query. 
 
 11.	Now try making your own query. Include fields that would be important for you to record, and use two or more data tables. When you’re done, save it as “YOURNAME_query.”
 
