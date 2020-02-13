@@ -40,7 +40,7 @@ For this exercise we will work from a relational database created for a PhD diss
 
 11.	Now try making your own query. Include fields that would be important for you to record, and use two or more data tables. When you’re done, save it as “YOURNAME_query.”
 
-12.	There are even more tools that you can use to quantify different relationships between the data. Crosstabs are specialized queries to assess how often two variables co-occur. Let’s create one and look at how the animals that are represented on artifacts change depending on the gender designation of the associated burial. Begin a query as you did before and include the Species table and the Context table. 
+12.	There are even more tools that you can use to quantify different relationships between the data. Crosstabs are specialized queries to assess how often two variables co-occur. Let’s create one and look at how the animals that are represented on artifacts change depending on the gender designation of the associated burial. Begin a query as you did before and include the Species table, the Context table, and the Artifacts table. 
 
 13.	Click on the Crosstab icon in the Design tab at the top. In your first column at the bottom half of the page choose the Species.CommonName field. In the Crosstab: row, choose this field as “Row Heading” and Sort by “Ascending.” In the second column, choose Context.Published Gender and make it your “Column Heading” and “Descending.” The third column is also Species.CommonName – change the Total: row to say “Count,” and choose “Value” from the Crosstab: drop-down menu. For each crosstab, you need one Row, one Column, and one Value. Then hit the Run button. 
 
